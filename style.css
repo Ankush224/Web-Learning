@@ -7,11 +7,24 @@ h1{
 }
 
 p{
-    color: blue;
+    color:black;
+    text-align: left;
 }
 
 button
 {
     color:white;
     background-color: green;
+}
+
+/* This is using id*/
+#box{
+    color: black;
+    background-color: rgb(194, 210, 101);
+}
+
+/* This is using class name*/
+.heading{
+    background-color: blue;
+    color: white;
 }
